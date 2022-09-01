@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+#mypic h4{
+    color: beige;
+}
+#mypic h1{
+    color: ghostwhite;
+}
+#mypic img{
+    border-radius: 100%;
+    font-size:xx-large;
+    width: 190px;
+}
+ul li i {
+    color: ghostwhite;
+    /* float: right */
+    /* justify-content: left; */
+}
+ul li{
+    color: ghostwhite;
+    float: right;
+}
